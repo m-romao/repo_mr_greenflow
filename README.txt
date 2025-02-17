@@ -63,7 +63,7 @@ Instalação e Execução (Local)
 
 Clonar o repositório:
 
-git clone https://github.com/seu-usuario/greenflow-challenge.git
+git clone https://github.com/m-romao/repo_mr_greenflow.git
 cd greenflow-challenge
 
 Criar e ativar ambiente virtual (opcional mas recomendado):
