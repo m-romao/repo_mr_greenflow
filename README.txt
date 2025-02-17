@@ -86,7 +86,7 @@ A API estará disponível em http://127.0.0.1:8000.
 
 Testar endpoints:
 
-Rota raiz: http://127.0.0.1:8000/
+Root file: http://127.0.0.1:8000/
 
 Documentação interativa: http://127.0.0.1:8000/docs
 
